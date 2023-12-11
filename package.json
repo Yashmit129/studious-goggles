@@ -1,0 +1,17 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rmdir /s dist && tsc",
+    "help-tsc": "tsc --help"
+  },
+  "keywords": [],
+  "author": "Yashmit Sagari",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  }
+}
